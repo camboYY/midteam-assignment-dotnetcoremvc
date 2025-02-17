@@ -1,0 +1,36 @@
+@model ExamMidTerm.Models.Person
+
+@{
+    ViewData["Title"] = "Details";
+    string num = Guid.NewGuid().ToString("N").Substring(0, 15);
+}
+
+<div class="id-card">
+    <div class="number">@num</div>
+    <div class="wrapper">
+        <div class="image">
+            <img src="@Model.Image" class="w-100" />
+            <img src="/images/person/download.png" class="w-50 text-center">
+        </div>
+        <div class="name">
+            <div class="label">Name: @Model.Name</div>
+            <div class="label">@Model.NameEn</div>
+            <div class="dob">
+                <div class="label">Date of Birth:@Model.DateOfBirth</div>
+                <div class="label">Sex: @Model.Gender</div>
+                <div class="label">Height:@Model.Height</div>
+            </div>
+            <div class="label">Place of Birth: @Model.Province.Name @Model.District.Name @Model.Commune.Name
+                @Model.Village.Name</div>
+            <div class="label">Adress:@Model.Address</div>
+            <div class="label">Duration: @Model.FromDate To @Model.ToDate</div>
+            <div class="label">Remark:@Model.Remark</div>
+        </div>
+    </div>
+    <div class="barcode">IDKHM0210742545&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</div>
+</div>
+<input type="hidden" name="content" value="Dynamic content to include in PDF" />
+
+
+<a asp-action="Index">Back to List</a>
+<a href="@Url.Action("DownloadPdf", "Pdf", new { id = Model.Id })" class="btn btn-primary">Download PDF</a>

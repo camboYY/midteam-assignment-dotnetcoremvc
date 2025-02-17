@@ -1,0 +1,289 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/yousyoeun/Documents/BBU/dotNet/ExamMidTerm/ExamMidTerm/obj/Debug/net8.0/scopedcss/projectbundle/ExamMidTerm.bundle.scp.css",
+      "PackagePath": "staticwebassets/ExamMidTerm.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/yousyoeun/Documents/BBU/dotNet/ExamMidTerm/ExamMidTerm/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/yousyoeun/Documents/BBU/dotNet/ExamMidTerm/ExamMidTerm/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/yousyoeun/Documents/BBU/dotNet/ExamMidTerm/ExamMidTerm/wwwroot/images/person/2e73c160-6e42-4939-a9cd-06d5cb7eab18.jpeg",
+      "PackagePath": "staticwebassets/images/person/2e73c160-6e42-4939-a9cd-06d5cb7eab18.jpeg"
+    },
+    {
+      "Id": "/Users/yousyoeun/Documents/BBU/dotNet/ExamMidTerm/ExamMidTerm/wwwroot/images/person/36692a2a-0829-4726-aa43-49b116a2617a.jpeg",
+      "PackagePath": "staticwebassets/images/person/36692a2a-0829-4726-aa43-49b116a2617a.jpeg"
+    },
+    {
+      "Id": "/Users/yousyoeun/Documents/BBU/dotNet/ExamMidTerm/ExamMidTerm/wwwroot/images/person/8c900a9a-f3e0-45d6-a737-fd035cef4a83.jpeg",
+      "PackagePath": "staticwebassets/images/person/8c900a9a-f3e0-45d6-a737-fd035cef4a83.jpeg"
+    },
+    {
+      "Id": "/Users/yousyoeun/Documents/BBU/dotNet/ExamMidTerm/ExamMidTerm/wwwroot/images/person/b688dfb2-5b50-414c-957f-dbe92406e8a6.jpg",
+      "PackagePath": "staticwebassets/images/person/b688dfb2-5b50-414c-957f-dbe92406e8a6.jpg"
+    },
+    {
+      "Id": "/Users/yousyoeun/Documents/BBU/dotNet/ExamMidTerm/ExamMidTerm/wwwroot/images/person/d278fb8f-231e-41b2-bb43-855e099bd03e.jpg",
+      "PackagePath": "staticwebassets/images/person/d278fb8f-231e-41b2-bb43-855e099bd03e.jpg"
+    },
+    {
+      "Id": "/Users/yousyoeun/Documents/BBU/dotNet/ExamMidTerm/ExamMidTerm/wwwroot/images/person/download.png",
+      "PackagePath": "staticwebassets/images/person/download.png"
+    },
+    {
+      "Id": "/Users/yousyoeun/Documents/BBU/dotNet/ExamMidTerm/ExamMidTerm/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/yousyoeun/Documents/BBU/dotNet/ExamMidTerm/ExamMidTerm/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/yousyoeun/Documents/BBU/dotNet/ExamMidTerm/ExamMidTerm/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/yousyoeun/Documents/BBU/dotNet/ExamMidTerm/ExamMidTerm/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/yousyoeun/Documents/BBU/dotNet/ExamMidTerm/ExamMidTerm/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/yousyoeun/Documents/BBU/dotNet/ExamMidTerm/ExamMidTerm/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/yousyoeun/Documents/BBU/dotNet/ExamMidTerm/ExamMidTerm/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/yousyoeun/Documents/BBU/dotNet/ExamMidTerm/ExamMidTerm/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/yousyoeun/Documents/BBU/dotNet/ExamMidTerm/ExamMidTerm/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/yousyoeun/Documents/BBU/dotNet/ExamMidTerm/ExamMidTerm/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/yousyoeun/Documents/BBU/dotNet/ExamMidTerm/ExamMidTerm/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/yousyoeun/Documents/BBU/dotNet/ExamMidTerm/ExamMidTerm/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/yousyoeun/Documents/BBU/dotNet/ExamMidTerm/ExamMidTerm/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/yousyoeun/Documents/BBU/dotNet/ExamMidTerm/ExamMidTerm/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/yousyoeun/Documents/BBU/dotNet/ExamMidTerm/ExamMidTerm/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/yousyoeun/Documents/BBU/dotNet/ExamMidTerm/ExamMidTerm/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/yousyoeun/Documents/BBU/dotNet/ExamMidTerm/ExamMidTerm/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/yousyoeun/Documents/BBU/dotNet/ExamMidTerm/ExamMidTerm/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/yousyoeun/Documents/BBU/dotNet/ExamMidTerm/ExamMidTerm/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/yousyoeun/Documents/BBU/dotNet/ExamMidTerm/ExamMidTerm/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/yousyoeun/Documents/BBU/dotNet/ExamMidTerm/ExamMidTerm/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/yousyoeun/Documents/BBU/dotNet/ExamMidTerm/ExamMidTerm/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/yousyoeun/Documents/BBU/dotNet/ExamMidTerm/ExamMidTerm/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/yousyoeun/Documents/BBU/dotNet/ExamMidTerm/ExamMidTerm/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/yousyoeun/Documents/BBU/dotNet/ExamMidTerm/ExamMidTerm/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/yousyoeun/Documents/BBU/dotNet/ExamMidTerm/ExamMidTerm/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/yousyoeun/Documents/BBU/dotNet/ExamMidTerm/ExamMidTerm/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/yousyoeun/Documents/BBU/dotNet/ExamMidTerm/ExamMidTerm/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/yousyoeun/Documents/BBU/dotNet/ExamMidTerm/ExamMidTerm/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/yousyoeun/Documents/BBU/dotNet/ExamMidTerm/ExamMidTerm/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/yousyoeun/Documents/BBU/dotNet/ExamMidTerm/ExamMidTerm/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/yousyoeun/Documents/BBU/dotNet/ExamMidTerm/ExamMidTerm/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/yousyoeun/Documents/BBU/dotNet/ExamMidTerm/ExamMidTerm/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/yousyoeun/Documents/BBU/dotNet/ExamMidTerm/ExamMidTerm/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/yousyoeun/Documents/BBU/dotNet/ExamMidTerm/ExamMidTerm/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/yousyoeun/Documents/BBU/dotNet/ExamMidTerm/ExamMidTerm/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/yousyoeun/Documents/BBU/dotNet/ExamMidTerm/ExamMidTerm/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/yousyoeun/Documents/BBU/dotNet/ExamMidTerm/ExamMidTerm/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/yousyoeun/Documents/BBU/dotNet/ExamMidTerm/ExamMidTerm/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/yousyoeun/Documents/BBU/dotNet/ExamMidTerm/ExamMidTerm/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/yousyoeun/Documents/BBU/dotNet/ExamMidTerm/ExamMidTerm/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/yousyoeun/Documents/BBU/dotNet/ExamMidTerm/ExamMidTerm/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/yousyoeun/Documents/BBU/dotNet/ExamMidTerm/ExamMidTerm/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/yousyoeun/Documents/BBU/dotNet/ExamMidTerm/ExamMidTerm/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/yousyoeun/Documents/BBU/dotNet/ExamMidTerm/ExamMidTerm/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/yousyoeun/Documents/BBU/dotNet/ExamMidTerm/ExamMidTerm/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/yousyoeun/Documents/BBU/dotNet/ExamMidTerm/ExamMidTerm/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/yousyoeun/Documents/BBU/dotNet/ExamMidTerm/ExamMidTerm/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/yousyoeun/Documents/BBU/dotNet/ExamMidTerm/ExamMidTerm/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/yousyoeun/Documents/BBU/dotNet/ExamMidTerm/ExamMidTerm/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/yousyoeun/Documents/BBU/dotNet/ExamMidTerm/ExamMidTerm/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/yousyoeun/Documents/BBU/dotNet/ExamMidTerm/ExamMidTerm/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/yousyoeun/Documents/BBU/dotNet/ExamMidTerm/ExamMidTerm/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/yousyoeun/Documents/BBU/dotNet/ExamMidTerm/ExamMidTerm/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/yousyoeun/Documents/BBU/dotNet/ExamMidTerm/ExamMidTerm/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/yousyoeun/Documents/BBU/dotNet/ExamMidTerm/ExamMidTerm/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/yousyoeun/Documents/BBU/dotNet/ExamMidTerm/ExamMidTerm/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/yousyoeun/Documents/BBU/dotNet/ExamMidTerm/ExamMidTerm/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.ExamMidTerm.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.ExamMidTerm.props",
+      "PackagePath": "build\\ExamMidTerm.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ExamMidTerm.props",
+      "PackagePath": "buildMultiTargeting\\ExamMidTerm.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ExamMidTerm.props",
+      "PackagePath": "buildTransitive\\ExamMidTerm.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,116 @@
+@using X.PagedList.Mvc.Core
+@model X.PagedList.IPagedList<ExamMidTerm.Models.Person>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.First().Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().NameEn)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().Height)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().Gender)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().DateOfBirth)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().Address)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().FromDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().ToDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().Remark)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().Image)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().ProvinceId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().DistrictId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().CommuneId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().VillageId)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NameEn)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Height)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Gender)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DateOfBirth)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Address)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FromDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ToDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Remark)
+                </td>
+                <td>
+                    <img src="@item.Image" class="card-img-top rounded w-25" />
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Province.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.District.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Commune.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Village.Name)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+@Html.PagedListPager(Model, page => Url.Action("Index", new { page }))
